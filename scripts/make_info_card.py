@@ -1,0 +1,153 @@
+from pathlib import Path
+
+
+OUTPUT = Path("info-card.svg")
+
+
+def make_info_card():
+    svg = r'''<svg xmlns="http://www.w3.org/2000/svg"
+width="500"
+height="420"
+viewBox="0 0 500 420">
+
+<rect
+    x="2"
+    y="2"
+    width="496"
+    height="416"
+    rx="12"
+    fill="white"
+    stroke="black"
+    stroke-width="2"/>
+
+<!-- Terminal header -->
+<rect
+    x="2"
+    y="2"
+    width="496"
+    height="38"
+    rx="12"
+    fill="black"/>
+
+<circle cx="22" cy="21" r="6" fill="white"/>
+<circle cx="42" cy="21" r="6" fill="white"/>
+<circle cx="62" cy="21" r="6" fill="white"/>
+
+<text
+    x="85"
+    y="26"
+    font-family="monospace"
+    font-size="14"
+    fill="white">
+    devyash@github:~
+</text>
+
+
+<!-- Name -->
+<text
+    x="25"
+    y="75"
+    font-family="monospace"
+    font-size="24"
+    font-weight="bold"
+    fill="black">
+    DEVYASH KULSHRESTHA
+</text>
+
+<line
+    x1="25"
+    y1="88"
+    x2="475"
+    y2="88"
+    stroke="black"/>
+
+
+<!-- Developer information -->
+
+<text x="25" y="120"
+font-family="monospace"
+font-size="15"
+fill="black">
+&gt; AI &amp; Data Science Student
+</text>
+
+<text x="25" y="148"
+font-family="monospace"
+font-size="15"
+fill="black">
+&gt; Machine Learning &amp; GenAI
+</text>
+
+<text x="25" y="176"
+font-family="monospace"
+font-size="15"
+fill="black">
+&gt; RAG &amp; Document Intelligence
+</text>
+
+
+<!-- Skills -->
+
+<text x="25" y="215"
+font-family="monospace"
+font-size="17"
+font-weight="bold"
+fill="black">
+TECH STACK
+</text>
+
+<text x="25" y="243"
+font-family="monospace"
+font-size="14"
+fill="black">
+Python • Java • JavaScript
+</text>
+
+<text x="25" y="268"
+font-family="monospace"
+font-size="14"
+fill="black">
+FastAPI • Flask • React
+</text>
+
+<text x="25" y="293"
+font-family="monospace"
+font-size="14"
+fill="black">
+PostgreSQL • pgvector • SQLAlchemy
+</text>
+
+<text x="25" y="318"
+font-family="monospace"
+font-size="14"
+fill="black">
+LangChain • Ollama • ML
+</text>
+
+<text x="25" y="343"
+font-family="monospace"
+font-size="14"
+fill="black">
+OpenCV • PaddleOCR • Tesseract
+</text>
+
+
+<!-- Projects -->
+
+<text x="25" y="378"
+font-family="monospace"
+font-size="14"
+font-weight="bold"
+fill="black">
+BUILDING: Coaching AI • Universal Timetable Parser
+</text>
+
+</svg>'''
+
+    OUTPUT.write_text(svg, encoding="utf-8")
+
+    print(f"Created {OUTPUT}")
+
+
+if __name__ == "__main__":
+    make_info_card()
