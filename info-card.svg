@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-width="500"
-height="420"
-viewBox="0 0 500 420">
+width="650"
+height="680"
+viewBox="0 0 650 680">
 
 <rect
     x="2"
     y="2"
-    width="496"
-    height="416"
+    width="646"
+    height="676"
     rx="12"
     fill="white"
     stroke="black"
@@ -17,7 +17,7 @@ viewBox="0 0 500 420">
 <rect
     x="2"
     y="2"
-    width="496"
+    width="646"
     height="38"
     rx="12"
     fill="black"/>
@@ -32,11 +32,11 @@ viewBox="0 0 500 420">
     font-family="monospace"
     font-size="14"
     fill="white">
-    devyash@github:~
+    devyash@fde-terminal:~
 </text>
 
 
-<!-- Name -->
+<!-- Name & Title -->
 <text
     x="25"
     y="75"
@@ -47,92 +47,105 @@ viewBox="0 0 500 420">
     DEVYASH KULSHRESTHA
 </text>
 
+<text
+    x="25"
+    y="102"
+    font-family="monospace"
+    font-size="14"
+    font-weight="bold"
+    fill="#555555">
+    Aspiring Forward Deployed Engineer (FDE) | AI &amp; Full-Stack
+</text>
+
 <line
     x1="25"
-    y1="88"
-    x2="475"
-    y2="88"
-    stroke="black"/>
+    y1="115"
+    x2="625"
+    y2="115"
+    stroke="black"
+    stroke-width="1.5"/>
 
 
-<!-- Developer information -->
+<!-- FDE Profile / Core Competencies -->
 
-<text x="25" y="120"
-font-family="monospace"
-font-size="15"
-fill="black">
-&gt; AI &amp; Data Science Student
+<text x="25" y="145" font-family="monospace" font-size="13" font-weight="bold" fill="black">
+&gt;_ PROFILE OVERVIEW
 </text>
 
-<text x="25" y="148"
-font-family="monospace"
-font-size="15"
-fill="black">
-&gt; Machine Learning &amp; GenAI
+<text x="25" y="170" font-family="monospace" font-size="13" fill="#333333">
+Highly adaptive engineer deploying complex AI, Computer Vision, and Full-Stack
 </text>
-
-<text x="25" y="176"
-font-family="monospace"
-font-size="15"
-fill="black">
-&gt; RAG &amp; Document Intelligence
+<text x="25" y="190" font-family="monospace" font-size="13" fill="#333333">
+solutions directly into mission-critical environments. Expert in constructing
+</text>
+<text x="25" y="210" font-family="monospace" font-size="13" fill="#333333">
+production-grade data pipelines leveraging hybrid intelligent parsing. Driven by
+</text>
+<text x="25" y="230" font-family="monospace" font-size="13" fill="#333333">
+solving real-world, high-impact client bottlenecks through scalable architecture.
 </text>
 
 
-<!-- Skills -->
+<!-- Advanced Tech Stack -->
 
-<text x="25" y="215"
-font-family="monospace"
-font-size="17"
-font-weight="bold"
-fill="black">
-TECH STACK
+<text x="25" y="275" font-family="monospace" font-size="15" font-weight="bold" fill="black">
+🛠️ TECH STACK
 </text>
 
-<text x="25" y="243"
-font-family="monospace"
-font-size="14"
-fill="black">
-Python • Java • JavaScript
+<text x="25" y="305" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[AI, ML &amp; NLP Systems]
+</text>
+<text x="25" y="325" font-family="monospace" font-size="13" fill="#444444">
+LLMs • RAG Architectures • LangChain • LangGraph • Rule-Based NLP Layering
 </text>
 
-<text x="25" y="268"
-font-family="monospace"
-font-size="14"
-fill="black">
-FastAPI • Flask • React
+<text x="25" y="355" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[Computer Vision &amp; OCR Engine]
+</text>
+<text x="25" y="375" font-family="monospace" font-size="13" fill="#444444">
+YOLO • DeepSeek OCR • Chandra OCR Machine • OpenCV • PaddleOCR • Tesseract
 </text>
 
-<text x="25" y="293"
-font-family="monospace"
-font-size="14"
-fill="black">
-PostgreSQL • pgvector • SQLAlchemy
+<text x="25" y="405" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[Database Architecture]
+</text>
+<text x="25" y="425" font-family="monospace" font-size="13" fill="#444444">
+PostgreSQL • pgvector • SQLAlchemy • Pandas • NumPy • Vector Search Engines
 </text>
 
-<text x="25" y="318"
-font-family="monospace"
-font-size="14"
-fill="black">
-LangChain • Ollama • ML
+<text x="25" y="455" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[High-Performance Engineering]
+</text>
+<text x="25" y="475" font-family="monospace" font-size="13" fill="#444444">
+FastAPI • WebSockets (Real-time Streaming) • Flask • Node.js • React • Tailwind CSS
 </text>
 
-<text x="25" y="343"
-font-family="monospace"
-font-size="14"
-fill="black">
-OpenCV • PaddleOCR • Tesseract
+<text x="25" y="505" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[DevOps &amp; Infrastructure]
+</text>
+<text x="25" y="525" font-family="monospace" font-size="13" fill="#444444">
+Docker • Nginx (Reverse Proxy &amp; Routing) • Vercel • Linux • Ollama • Git
+</text>
+
+<text x="25" y="555" font-family="monospace" font-size="13" font-weight="bold" fill="#111111">
+[Languages]
+</text>
+<text x="25" y="575" font-family="monospace" font-size="13" fill="#444444">
+Python • JavaScript • Java • HTML5 • CSS3
 </text>
 
 
-<!-- Projects -->
+<line
+    x1="25"
+    y1="610"
+    x2="625"
+    y2="610"
+    stroke="#dddddd"
+    stroke-width="1"/>
 
-<text x="25" y="378"
-font-family="monospace"
-font-size="14"
-font-weight="bold"
-fill="black">
-BUILDING: Coaching AI • Universal Timetable Parser
+<!-- Projects Footer -->
+<text x="25" y="640" font-family="monospace" font-size="13" font-weight="bold" fill="black">
+⚡ ACTIVE PIPELINES: Coaching AI • Universal Timetable Parser
 </text>
 
 </svg>
