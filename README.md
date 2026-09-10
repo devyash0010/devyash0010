@@ -1,27 +1,31 @@
 <div align="center">
 
-# 👋 DEVYASH KULSHRESTHA
+# ⚡ DEVYASH KULSHRESTHA
 
 ```text
-devyash@github ~ $ ./contributions.sh
+devyash@fde-terminal:~ $ ./initialize_pipeline.sh
 ```
 
-<img src="./contrib-heatmap.svg" width="860"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devyash0010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<br>
+
+<img src="./contrib-heatmap.svg" width="100%"/>
 
 <br>
 
 ```text
-devyash@github ~ $ whoami
+devyash@fde-terminal:~ $ whoami --fde-insights
 ```
 
 <table>
 <tr>
-<td valign="top">
-<img src="./devyash-ascii.svg" width="370"/>
+<td valign="top" width="45%">
+<img src="./devyash-ascii.svg" width="100%"/>
 </td>
-
-<td valign="top">
-<img src="./info-card.svg" width="490"/>
+<td valign="top" width="55%">
+<img src="./info-card.svg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -29,126 +33,79 @@ devyash@github ~ $ whoami
 <br>
 
 ```text
-devyash@github ~ $ cat about.txt
+devyash@fde-terminal:~ $ cat profile_manifesto.md
 ```
 
-### 🤖 AI & Data Science Developer
-
-I'm an **AI & Data Science student** focused on building practical AI systems, intelligent document-processing pipelines, and GenAI applications.
-
-* 🧠 Machine Learning & Generative AI
-* 🔎 RAG & Vector Search
-* 📄 Document AI & OCR
-* ⚡ FastAPI backend development
-* 🗄️ PostgreSQL & pgvector
-* 👁️ Computer Vision
-* 🐍 Python development
+### 🧠 Forward Deployed Systems Engineering
+> Highly adaptive engineer specializing in deploying complex **AI, Computer Vision, and Full-Stack pipelines** directly into mission-critical, production environments. Expert at engineering hybrid intelligent text extraction systems that combine state-of-the-art multimodal vision models with precise programmatic guardrails.
 
 ---
 
 ```text
-devyash@github ~ $ ls ./projects
+devyash@fde-terminal:~ $ ls -la --tree ./production_pipelines
 ```
 
-### 🚀 Featured Projects
+### 🛠️ Core Architectural Stack
 
-| Project                           | Description                                                                         |
-| --------------------------------- | ----------------------------------------------------------------------------------- |
-| 🤖 **Coaching AI**                | AI-powered coaching analytics and intelligent student performance management system |
-| 📄 **Universal Timetable Parser** | Automated university timetable extraction and structured data pipeline              |
-| 🔎 **Document Intelligence**      | OCR + layout understanding + structured document extraction                         |
-| 🧠 **RAG Applications**           | Retrieval-Augmented Generation systems using vector search                          |
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **🤖 AI Engineering** | `LLMs` `RAG Architectures` `Custom Embeddings` `LangChain` `LangGraph` |
+| **👁️ Vision & NLP** | `YOLO (Object Detection)` `Rule-Based NLP Layering` `DeepSeek OCR` `Chandra OCR` `OpenCV` |
+| **🌐 High-Performance Backend** | `FastAPI (Asynchronous)` `WebSockets (Real-time Streaming)` `Flask` `Node.js` |
+| **🗄️ Relational & Vector Storage** | `PostgreSQL` `pgvector` `SQLAlchemy` `High-Dimensional Vector Search` |
+| **📊 Data & Analytics Engineering**| `Pandas` `NumPy` `Advanced Feature Engineering` `Mathematical Profiling` |
+| **⚙️ Infrastructure & DevOps** | `Docker (Microservices)` `Nginx (Reverse Proxy & Routing)` `Vercel` `Ollama` `Linux` |
+| **💻 Core Code Languages** | `Python` `JavaScript` `Java` `HTML5` `CSS3` `Tailwind CSS` |
 
 ---
 
 ```text
-devyash@github ~ $ cat tech_stack.txt
+devyash@fde-terminal:~ $ active-deployments --status
 ```
 
-### 🛠️ Tech Stack
+### 🚀 Mission Featured Deployments
 
-**Languages**
-
-`Python` `Java` `JavaScript` `HTML` `CSS`
-
-**AI / ML**
-
-`Machine Learning` `Generative AI` `RAG` `Embeddings` `Vector Search`
-
-**Frameworks**
-
-`FastAPI` `Flask` `React`
-
-**Data & Backend**
-
-`PostgreSQL` `pgvector` `SQLAlchemy` `Pandas`
-
-**AI Tools**
-
-`LangChain` `Ollama` `SentenceTransformers`
-
-**Computer Vision / OCR**
-
-`OpenCV` `PaddleOCR` `Tesseract`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Linux`
+*   **🤖 Coaching AI** 
+    *   *System:* AI-powered coaching analytics engine and intelligent student performance metric platform.
+    *   *Impact:* Leverages predictive profiling vectors to automate performance assessment loops.
+*   **📄 Universal Timetable Parser**
+    *   *System:* Highly optimized automated multi-format university timetable data extraction pipeline.
+    *   *Impact:* Substitutes manual scheduling parsing with high-throughput relational mappings.
+*   **🔎 Document Intelligence Matrix**
+    *   *System:* Production OCR pipeline combining hybrid layout understanding engines and text extraction.
+    *   *Impact:* Features deterministic token confidence filtering thresholds for automated data ingestion.
 
 ---
 
 ```text
-devyash@github ~ $ cat certifications.txt
+devyash@fde-terminal:~ $ cat system_benchmarks.log
 ```
 
-### 🏆 Certifications
-
-* 🎓 **Oracle AI Vector Search Professional Certification**
-
----
+### 🔭 Current Focus & Latency Metrics
 
 ```text
-devyash@github ~ $ ./current_focus.sh
-```
-
-### 🔭 Currently Building
-
-```text
-[████████████████████░░]  AI Systems
-[██████████████████░░░░]  RAG Applications
-[█████████████████░░░░░]  Document AI
-[███████████████░░░░░░░]  Computer Vision
-[██████████████░░░░░░░░]  AI Engineering
+[████████████████████░░]  Stateful Agent Workflows (LangGraph) 
+[██████████████████░░░░]  Real-Time WebSocket Ingestion Loops  
+[█████████████████░░░░░]  Containerized Microservices (Docker) 
+[███████████████░░░░░░░]  Nginx Dynamic Traffic Optimization   
+[██████████████░░░░░░░░]  Deep Learning Feature Engineering    
 ```
 
 ---
 
 ```text
-devyash@github ~ $ echo $GOAL
+devyash@fde-terminal:~ $ ./verify_achievements.sh
 ```
 
-### 🎯 Goal
-
-> Build reliable, production-ready AI systems that solve real-world problems.
+### 🏆 Verified Certifications
+*   🎓 **Oracle AI Vector Search Professional Certification**
 
 ---
 
-### 📫 Connect With Me
-
-<a href="https://github.com/devyash0010">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
 ```text
-devyash@github ~ $ echo "Thanks for visiting!"
+devyash@fde-terminal:~ \$ exit
 ```
 
-⭐ **Feel free to explore my repositories and projects.**
+⚡ **System operational. Feel free to explore my source repositories or initiate a pipeline fork.**
 
 </div>
